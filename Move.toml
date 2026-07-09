@@ -1,0 +1,6 @@
+[package]
+name = "DepPkg"
+version = "0.0.1"
+
+[addresses]
+DepPkg = "0x43"
